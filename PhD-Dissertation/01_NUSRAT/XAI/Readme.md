@@ -1,2 +1,2 @@
-This directory contains XAI resulats
+This directory contains XAI results.
 
